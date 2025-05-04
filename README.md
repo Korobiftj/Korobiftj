@@ -1,7 +1,7 @@
 <h1 align="center">Fatema Tuj Johora Korobi</h1>
 <h3 align="center">Data Science and Machine Learning Enthusiast</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
